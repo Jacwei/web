@@ -1,0 +1,6 @@
+F:\ASP\例3-2\例3-2\bin\例3-2.dll.config
+F:\ASP\例3-2\例3-2\bin\例3-2.dll
+F:\ASP\例3-2\例3-2\bin\例3-2.pdb
+F:\ASP\例3-2\例3-2\obj\Debug\例3-2.csprojResolveAssemblyReference.cache
+F:\ASP\例3-2\例3-2\obj\Debug\例3-2.dll
+F:\ASP\例3-2\例3-2\obj\Debug\例3-2.pdb
