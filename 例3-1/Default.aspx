@@ -8,9 +8,9 @@
     <script language="C#" runat="server">
         void Page_Init(Object sender, EventArgs e)
         {
-            Interest.Items.Add("文学");
-            Interest.Items.Add("旅游");
-            Interest.Items.Add("音乐");
+            Interest.Items.Add("lecture");
+            Interest.Items.Add("touris");
+            Interest.Items.Add("misic");
         }
         void AddTolist(Object sender, EventArgs e)
         {
@@ -21,11 +21,11 @@
 <body bgcolor ="ff">
     <form id="form1" runat="server">
     <div>
-    请选择你的爱好<br />
+    choose your horbbit<br />
     <select id="Interest" runat="server"></select>
-    <p>向列表添加爱好</p>
+    <p>add your horbbit</p>
     <input type ="text" id ="Text1" runat ="server" />
-    <input type ="button" runat ="server" value ="添加" onserverclick="AddTolist" />
+    <input type ="button" runat ="server" value ="Add" onserverclick="AddTolist" />
 
     </div>
     </form>
