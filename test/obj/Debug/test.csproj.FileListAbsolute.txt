@@ -1,0 +1,4 @@
+F:\VS2010Project\test\test\bin\test.dll
+F:\VS2010Project\test\test\bin\test.pdb
+F:\VS2010Project\test\test\obj\Debug\test.dll
+F:\VS2010Project\test\test\obj\Debug\test.pdb
