@@ -1,0 +1,4 @@
+F:\VS2010Project\例3-11\例3-11\bin\例3-11.dll
+F:\VS2010Project\例3-11\例3-11\bin\例3-11.pdb
+F:\VS2010Project\例3-11\例3-11\obj\Debug\例3-11.dll
+F:\VS2010Project\例3-11\例3-11\obj\Debug\例3-11.pdb
