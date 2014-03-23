@@ -1,4 +1,0 @@
-F:\VS2010Project\例3.1\例3.1\bin\例3.1.dll
-F:\VS2010Project\例3.1\例3.1\bin\例3.1.pdb
-F:\VS2010Project\例3.1\例3.1\obj\Debug\例3.1.dll
-F:\VS2010Project\例3.1\例3.1\obj\Debug\例3.1.pdb
