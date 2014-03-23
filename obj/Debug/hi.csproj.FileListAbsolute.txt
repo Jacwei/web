@@ -1,4 +1,0 @@
-F:\VS2010Project\hi\hi\bin\hi.dll
-F:\VS2010Project\hi\hi\bin\hi.pdb
-F:\VS2010Project\hi\hi\obj\Debug\hi.dll
-F:\VS2010Project\hi\hi\obj\Debug\hi.pdb
