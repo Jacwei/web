@@ -1,4 +1,0 @@
-F:\VS2010Project\webs\webs\bin\webs.dll
-F:\VS2010Project\webs\webs\bin\webs.pdb
-F:\VS2010Project\webs\webs\obj\Debug\webs.dll
-F:\VS2010Project\webs\webs\obj\Debug\webs.pdb

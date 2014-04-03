@@ -6,12 +6,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1B26ADC2-AC3B-4EFC-9075-DBACB647616B}</ProjectGuid>
+    <ProjectGuid>{B032B247-6890-4EFC-A2BC-A5FA76102B72}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>webs</RootNamespace>
-    <AssemblyName>webs</AssemblyName>
+    <RootNamespace>Web2</RootNamespace>
+    <AssemblyName>Web2</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -51,6 +51,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Image\b.jpg" />
+    <Content Include="Page0.htm" />
+    <Content Include="Page1.htm" />
+    <Content Include="Image\D.jpg" />
+    <Content Include="Image\h.png" />
+    <Content Include="Image\h1.jpg" />
+    <Content Include="Image\L1.jpg" />
+    <Content Include="Image\L5.jpg" />
+    <Content Include="Image\R.jpg" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -58,6 +68,7 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <Content Include="Web1.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.cs">
@@ -67,18 +78,16 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="MasterPage.Master.cs">
-      <DependentUpon>MasterPage.Master</DependentUpon>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web1.aspx.cs">
+      <DependentUpon>Web1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="MasterPage.Master.designer.cs">
-      <DependentUpon>MasterPage.Master</DependentUpon>
+    <Compile Include="Web1.aspx.designer.cs">
+      <DependentUpon>Web1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="MasterPage.Master" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
@@ -87,7 +96,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>4444</DevelopmentServerPort>
+          <DevelopmentServerPort>8643</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
