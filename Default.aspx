@@ -40,7 +40,7 @@
                     &nbsp;&nbsp;
                     <asp:LinkButton ID="LinkButton3" runat="server" onclick="LinkButton3_Click">作业3</asp:LinkButton>
                     &nbsp;&nbsp;
-                    <asp:LinkButton ID="LinkButton4" runat="server">作业4</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton4" runat="server" onclick="LinkButton4_Click">作业4</asp:LinkButton>
                     &nbsp;&nbsp;
                     <asp:LinkButton ID="LinkButton5" runat="server">作业5</asp:LinkButton>
                 </div>

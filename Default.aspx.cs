@@ -31,5 +31,10 @@ namespace Web2
             string url = "Web1.aspx?orderID=" + ((LinkButton)sender).CommandArgument.ToString();
             Response.Redirect(url);
         }
+
+        protected void LinkButton4_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Login.aspx");
+        }
     }
 }
